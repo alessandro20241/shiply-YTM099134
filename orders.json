@@ -1,0 +1,43 @@
+{
+  "YTM099134": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Marco Pellegrini, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Vladislav Kisakov, Ilia Drakopoulou 16, 341 00 Chalkida, Griechenland",
+    "price": "5.000 €",
+    "description": "Hersteller: Yamaha<br>Typ: TMAX 530 SX<br>Fahrgestelnummer: 314334 <br>Erstzulassung: 04/2022 <br>KM laut Vorbesitzer: 1.900 km <br>Leistung: 33 kW <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Vladislav Kisakov<br>Ilia Drakopoulou 16<br>341 00 Chalkida<br>Griechenland<br>Telefon: +30 6981067539",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27-10-2025",
+    "deliveryDate": "05-11-2025",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Ilia Drakopoulou 16",
+      "postal_code": "341 00",
+      "city": "Chalkida",
+      "country": "Griechenland"
+    }
+  }
+}
